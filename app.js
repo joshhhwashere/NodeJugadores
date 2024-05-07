@@ -8,7 +8,7 @@ const DUMMY_TEAMS = [
     },
     {
         name: 'Real Madrid',
-        players: ['Ramos', 'Benzema', 'Cristiano']
+        players: ['James', 'Bale', 'Cristiano']
     },
     {
         name: 'Manchester United',
